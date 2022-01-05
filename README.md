@@ -21,8 +21,8 @@ Comment::<br/>
 List:: <br/>
 Maand::<br/>
 <br/>
-Then the script mdtoopmltemplate.php will generate OPML lists based on those book notes.
-After which you can use the script booklistpost.php to post those OPML files to your website's domain
+Then the script mdtoopmltemplate.php will generate OPML lists based on those book notes.<br/>
+After which you can use the script booklistpost.php to post those OPML files to your website's domain.<br/>
 On the server that hosts your domain you have bookformserverside.php that receives the posted OPML files and writes them to your webserver.<br/>
 <br/>
 Thist blogpost describes the workflow for which these scripts were made as proof of concept: https://www.zylstra.org/blog/2022/01/federated-bookshelves-obsidian-notes-to-opml/
