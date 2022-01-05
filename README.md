@@ -2,7 +2,7 @@
 Proof of concept for OPML book lists generated from individual Obsidian book notes in markdown<br/>
 <br/>
 Assumptions: <br/>
-a) you run a webserver locally on the device where you Obsidian.md book notes are<br/>
+a) you run a webserver locally on the device where your Obsidian.md book notes are<br/>
 b) you have all your book notes in a specific folder that does not contain anything else but book notes<br/>
 c) in Obsidian.md you use a template for book notes that adds these fields on the first 14 lines of any book note:<br/>
 <br/>
