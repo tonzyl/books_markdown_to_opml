@@ -5,7 +5,7 @@ Assumptions:
 a) you run a webserver locally on the device where you Obsidian.md book notes are
 b) you have all your book notes in a specific folder that does not contain anything else but book notes
 c) in Obsidian.md you use a template for book notes that adds these fields on the first 14 lines of any book note:
-Type:: book <br/>
+Type:: book \r
 Text::  
 Name:: 
 Author:: 
