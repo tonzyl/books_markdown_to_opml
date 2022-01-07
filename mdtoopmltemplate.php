@@ -73,7 +73,7 @@ $list = mb_substr($list, 7, -1);
 //make an outline line for a book in the following format
 //<outline type="book" text="mandatory" name="" author="" isbn="" url="" comment="" authorurl="" referencelisturl="" referenceurl="" inLanguage="" category=""/>
 if ($type=="book") {
-$boekregel='<outline type="book" text="'.$text.'" name="'.$name.'" author="'.$author.'" isbn="'.$isbn.'" url="'.$url.'" authorurl="'.$authorurl.'"" referencelisturl="'.$referencelisturl.'" referenceurl="'.$referenceurl.'" inLanguage="'.$language.'" category="'.$category.'" comment="'.$comment.'" />';
+$boekregel='<outline type="book" text="'.$text.'" name="'.$name.'" author="'.$author.'" isbn="'.$isbn.'" url="'.$url.'" authorurl="'.$authorurl.'" referencelisturl="'.$referencelisturl.'" referenceurl="'.$referenceurl.'" inLanguage="'.$language.'" category="'.$category.'" comment="'.$comment.'" />';
 
 //add it to the right collection = opml list  
 if ($list == "fiction2021") {
